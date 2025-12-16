@@ -1,0 +1,13 @@
+.\obj\test.o: test.c
+.\obj\test.o: C:\Keil4\ARM\RV31\Inc\stdio.h
+.\obj\test.o: C:\Keil4\ARM\RV31\Inc\stdlib.h
+.\obj\test.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\test.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\test.o: C:\Keil4\ARM\RV31\Inc\stdint.h
+.\obj\test.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\test.o: ..\..\..\Include\System\SysInfra.h
+.\obj\test.o: ..\..\..\Include\System\ModuleID.h
+.\obj\test.o: ..\..\..\Include\Driver/DrvGPIO.h
+.\obj\test.o: ..\..\..\Include\Driver/DrvSYS.h
+.\obj\test.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\test.o: ..\..\..\Include\NUC1xx-LB_002\Seven_Segment.h
